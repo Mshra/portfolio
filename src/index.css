@@ -1,3 +1,16 @@
+:root {
+  margin-left: 15%;
+  margin-right: 15%;
+  height: 100vh;
+  border: 1px solid #66fcf1;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  background-color: #0B0C10;
+}
+
+p {
+  color: white;
+}
+
 /* :root { */
 /*   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
 /*   line-height: 1.5; */
