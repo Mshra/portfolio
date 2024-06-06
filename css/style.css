@@ -7,7 +7,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  gap: 50px;
+  gap: 3rem;
 }
 
 h1 {
@@ -26,14 +26,26 @@ nav {
   font-family: 'iosevka';
 }
 
-a {
+nav > a {
   color: #67e8f9;
   text-decoration: none;
   padding: 0.4rem;
 }
 
-a:hover {
+nav > a:hover {
   background-color: #67e8f9;
   border-radius: 1px;
   color: #262626;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.socials > a {
+  color: #94a3b8;
+  text-decoration: none;
+  padding: 0.8em;
 }
