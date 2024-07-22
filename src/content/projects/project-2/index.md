@@ -1,9 +1,9 @@
 ---
-title: "Renovatio"
-description: "Interior desiging renovated."
+title: "Shortify"
+description: "A lightweight URL shortener."
 date: "Mar 26 2024"
-demoURL: "https://renovatio-design.vercel.app/"
-repoURL: "https://github.com/markhorn-dev/astro-nano"
+demoURL: "https://shortifyproject.vercel.app/"
+repoURL: "https://github.com/Mshra/Shortify"
 ---
 
 ![Astro Nano](/astro-nano.png)
