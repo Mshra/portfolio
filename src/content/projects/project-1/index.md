@@ -1,12 +1,12 @@
 ---
 title: "Renovatio"
 description: "Interior desiging renovated."
-date: "Mar 26 2024"
+date: "July 23 2024"
 demoURL: "https://renovatio-design.vercel.app/"
-repoURL: "https://github.com/markhorn-dev/astro-nano"
+repoURL: "https://github.com/Mshra/renovatio"
 ---
 
-![Astro Nano](/astro-nano.png)
+![]()
 
 Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
 

@@ -1,1 +1,1 @@
-Theme used -> [astro-nano](https://astro.build/themes/details/astronano/)
+template used -> [astro-nano](https://astro.build/themes/details/astronano/)
