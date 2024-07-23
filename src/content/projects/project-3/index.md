@@ -6,7 +6,7 @@ demoURL: "https://shortifyproject.vercel.app/"
 repoURL: "https://github.com/Mshra/Shortify"
 ---
 
-![shortify](/shortify/shortify.png)
+![shortify](/shortify.png)
 
 Shortify is a standard URL shortener that shortens any given URL by craeting
 
@@ -18,8 +18,8 @@ Tech stack used
 - MongoDB
 - TailwindCSS
 
-![delete](/shortify/delete.png)
+![delete](/shortify-delete.png)
 
 the two thi
 
-![valid](/shortify/validURL.png)
+![valid](/shortify-valid.png)
