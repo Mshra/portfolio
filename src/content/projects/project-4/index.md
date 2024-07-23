@@ -33,7 +33,7 @@ The methods implemented are:
 
 - Create
 
-```C
+```c
 Hash_Map *init_hashmap() {
   Hash_Map *tmp_hmap = (Hash_Map *)malloc(sizeof(Hash_Map));
   if (tmp_hmap == NULL) {
@@ -49,7 +49,7 @@ Hash_Map *init_hashmap() {
 
 - Print
 
-```C
+```c
 void print_hmap(Hash_Map *hmap) {
   printf("{\n");
   for (int i = 0; i < hmap->length; i++) {
@@ -65,7 +65,7 @@ void print_hmap(Hash_Map *hmap) {
 
 - Delete
 
-```C
+```c
 void delete(Hash_Map *hmap, char *key) {
   hmap->map[get_index(key, hmap->length)] = NULL_ITEM;
 }
