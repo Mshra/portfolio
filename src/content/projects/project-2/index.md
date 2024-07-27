@@ -6,9 +6,9 @@ demoURL: "https://jarvis-demo.vercel.app/"
 repoURL: "https://github.com/Mshra/Jarvis"
 ---
 
-Large Language Models or LLM's is comfortably at the forefront of the AI today or tech in general. With every big tech giant and AI labs is in race for AGI they are being utilised and integrated in every facet of our lifestyle, although some controversial.
+Large Language Models or LLM's are at the forefront of the AI today or tech in general. With every big tech giant and AI labs in race for AGI they are being utilised and integrated in every facet of our lifestyle.
 
-But there is a limitation, the interaction through these LLM's are limited. The common option is to use the interface provided. This is limiting if we want to harness the powers of LLM in our project to extend the functionality using these LLM's.
+But there is a limitation, the interaction through these LLM's are limited. The common option is to use the interface provided. This is limiting for common users and for developers who make their own from scratch and perform API calls. Hence, it is complex to harness these power of llms in our project.
 
 This is why I present [Jarvis](https://www.npmjs.com/package/@tarzi/jarvis). It is a search bar component which you can integrate in your own node project and allow text generation through prompts.
 
